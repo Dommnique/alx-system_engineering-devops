@@ -3,4 +3,5 @@
 2-script that changes the working directory to the user’s home directory
 3-script that displays current directory contents in a long format
 4-script that displays current directory contents, including hidden files
-5-script that displays current directory contents`
+5-script that displays current directory contents
+6-script that creates a directory named my first directory in the tmp directory`
