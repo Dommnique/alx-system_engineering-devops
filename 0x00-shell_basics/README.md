@@ -9,3 +9,4 @@
 8-script that deletes the file betty
 9-script that deletes the directory my first directory that is in the /tmp directory
 10-script that changes the working directory to the previous one
+12-script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
