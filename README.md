@@ -1,1 +1,1 @@
-0-a script that prints “Hello, World”, followed by a new line to the standard output
+This repository contains a list of directory that are under system engineering
