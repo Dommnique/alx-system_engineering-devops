@@ -19,7 +19,7 @@
 18- a script that dispalays all lines of the file /etc/ssh/sshd_\config starting with a letter.
 19- a script that replaces all characters A and c from input to Z and e respectively.
 20- a script that removes all letters c and C from input.
-
+21-a script that reverse its input
 
 
 
